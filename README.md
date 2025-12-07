@@ -205,11 +205,11 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 | Aspect | Feature Store | Traditional |
 |--------|---------------|-------------|
-| Feature Reusability | High
-| Consistency |  Guaranteed 
-| Versioning |  Built-in 
-| Discoverability |  Centralized
-| Governance |  Strong 
+| Feature Reusability | High | Low |
+| Consistency |  Guaranteed | Varible |
+| Versioning |  Built-in | Manual |
+| Discoverability |  Centralized | Scattered |
+| Governance |  Strong | Weak |
 
 ---
 
