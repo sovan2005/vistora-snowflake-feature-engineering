@@ -186,7 +186,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +199,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 🔍 Feature Store vs Traditional Approach
+## Feature Store vs Traditional Approach
 
 | Aspect | Feature Store | Traditional |
 |--------|---------------|-------------|
@@ -211,7 +211,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Snowflake**: Data warehouse & compute
 - **SQL**: Feature engineering & transformations
@@ -220,7 +220,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 📝 Key Learnings
+## Key Learnings
 
 1. **Feature Stores** centralize feature management and improve ML workflow efficiency
 2. **Snowflake** provides powerful compute for large-scale feature engineering
@@ -230,7 +230,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time feature computation with Snowflake Streams
 - [ ] Integration with Snowpark ML for advanced models
@@ -240,7 +240,7 @@ DATEDIFF('day', MAX(transaction_date), CURRENT_TIMESTAMP())
 
 ---
 
-## 📚 References
+## References
 
 - [Snowflake Documentation](https://docs.snowflake.com/)
 - [Feature Store Concepts](https://www.featurestore.org/)
