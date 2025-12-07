@@ -1,6 +1,4 @@
-# Feature Engineering with Snowflake & Feature Store
-
-**Vistora AI - ML Assignment Project**
+# Feature Engineering with Snowflake
 
 ## Project Overview
 
